@@ -148,6 +148,22 @@ p {
   margin: 20px 10px;
 }
 
+.twitter:hover {
+  color: #1DA1F2;
+}
+
+.facebook:hover {
+  color: #4267B2;
+}
+
+.instagram:hover {
+  color: #8a3ab9;
+}
+
+.mail:hover {
+  color: #D44638;
+}
+
 /* Media Queries  */
 @media (max-width: 1028px) {
   #title {
